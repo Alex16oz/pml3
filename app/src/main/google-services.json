@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "845140679956",
+    "firebase_url": "https://pml-ridho-9a938-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pml-ridho-9a938",
+    "storage_bucket": "pml-ridho-9a938.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845140679956:android:1f9df8808baede55ea3601",
+        "android_client_info": {
+          "package_name": "yuga.ridho.pml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvd0WauYJerckKJWSSuIJ9rOsBkZNcjH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845140679956:android:433c8a56db5c834dea3601",
+        "android_client_info": {
+          "package_name": "yuga.ridho.pml3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvd0WauYJerckKJWSSuIJ9rOsBkZNcjH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
