@@ -8,25 +8,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:845140679956:android:1f9df8808baede55ea3601",
-        "android_client_info": {
-          "package_name": "yuga.ridho.pml"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCvd0WauYJerckKJWSSuIJ9rOsBkZNcjH4"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:845140679956:android:433c8a56db5c834dea3601",
         "android_client_info": {
           "package_name": "yuga.ridho.pml3"
