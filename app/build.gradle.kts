@@ -2,11 +2,12 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
+    id("com.google.gms.google-services")
 }
 
 android {
     namespace = "yuga.ridho.pml3"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "yuga.ridho.pml3"
